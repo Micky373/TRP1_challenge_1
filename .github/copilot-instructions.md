@@ -35,4 +35,3 @@ Use these to verify your work:
 
 ## 🧠 Learning Log (AI: Update this section after every correction)
 - *Example: Use 'pathlib' instead of 'os.path' for better cross-platform compatibility.*
-- [Add your project-specific learnings here...]
